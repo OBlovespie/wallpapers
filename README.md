@@ -1,4 +1,4 @@
- my wallpapers
+a collection of wallpapers I have amassed, for clarification none of these are my own and I do not claim ownership of any of them
 
 my wallpapers
 
