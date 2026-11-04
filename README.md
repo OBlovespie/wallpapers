@@ -36,6 +36,9 @@ a collection of wallpapers I have amassed, for clarification none of these are m
 | <a href="valheim_shack.png"><img src="valheim_shack.png" alt="valheim_shack.png" width="240"></a><br>`valheim_shack.png` | <a href="valheim_view.png"><img src="valheim_view.png" alt="valheim_view.png" width="240"></a><br>`valheim_view.png` | <a href="valheimian_forest.jpg"><img src="valheimian_forest.jpg" alt="valheimian_forest.jpg" width="240"></a><br>`valheimian_forest.jpg` |
 | <a href="valley.jpg"><img src="valley.jpg" alt="valley.jpg" width="240"></a><br>`valley.jpg` | <a href="void_skull.png"><img src="void_skull.png" alt="void_skull.png" width="240"></a><br>`void_skull.png` | <a href="wide-lake.jpg"><img src="wide-lake.jpg" alt="wide-lake.jpg" width="240"></a><br>`wide-lake.jpg` |
 | <a href="wider_lake.jpg"><img src="wider_lake.jpg" alt="wider_lake.jpg" width="240"></a><br>`wider_lake.jpg` | <a href="wipeout.png"><img src="wipeout.png" alt="wipeout.png" width="240"></a><br>`wipeout.png` | <a href="wp9104622-gnu-linux-wallpapers.jpg"><img src="wp9104622-gnu-linux-wallpapers.jpg" alt="wp9104622-gnu-linux-wallpapers.jpg" width="240"></a><br>`wp9104622-gnu-linux-wallpapers.jpg` |
-| <a href="x-wing_battle.png"><img src="x-wing_battle.png" alt="x-wing_battle.png" width="240"></a><br>`x-wing_battle.png` | <a href="xwings.png"><img src="xwings.png" alt="xwings.png" width="240"></a><br>`xwings.png` |  |
+| <a href="x-wing_battle.png"><img src="x-wing_battle.png" alt="x-wing_battle.png" width="240"></a><br>`x-wing_battle.png` | <a href="xwings.png"><img src="xwings.png" alt="xwings.png" width="240"></a><br>`xwings.png` | <img width="2560" height="1440" alt="concrete_bridge" src="https://github.com/user-attachments/assets/23a195b7-b673-4243-b8d7-44f83ad439ed" /> | <img width="2560" height="1440" alt="metal_bridge" src="https://github.com/user-attachments/assets/6d605512-cd70-441f-9d4a-66d218c5eee4" /> | <img width="2560" height="1440" alt="pipes" src="https://github.com/user-attachments/assets/7ec02853-c832-4e4c-ba79-57c35b74c5a1" /> | |
+
+
+
 
 <!-- WALLPAPER GALLERY END -->
